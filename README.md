@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 📝 I regularly write articles on [kivircikparantez.com](kivircikparantez.com)
+- 📝 I regularly write articles on [kivircikparantez.com](https://www.kivircikparantez.com/)
 
 - 💬 Ask me about **react, js, ts,**
 
